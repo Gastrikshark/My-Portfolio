@@ -1,0 +1,92 @@
+.bg-custom{
+    background-color: black;
+}
+
+.bg-dropdown{
+    background-color: cyan;
+}
+
+.overflow-scroll-text{ 
+        height: 200px;
+        width: 50%;
+}
+.card{
+    min-height: 375px;
+}
+
+.Unity_text{
+    color: purple
+}
+
+.pongtext-1{
+    color: greenyellow
+}
+
+.scrollable-element {
+    scrollbar-color: red yellow;
+  }
+
+.overflow-scroll {
+    color : cyan;
+}
+
+.container{
+    color : yellow
+}
+
+.embed-responsive_embed-responsive-16by9{
+    height: 70vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    object-fit: scale-down;
+    margin-left: 25%;
+    transform: scale(0.9) translate(0, 5%);
+}
+
+.body {
+    background-image: url('img/black hole.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.carousel-image{
+    height: 70vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    object-fit: scale-down;
+    margin-left: 25%;
+    transform: scale(0.9) translate(0, 5%);
+}
+
+.carousel-item-1{
+    color: rgba(4, 253, 249, 0.977);
+        height: 250px;
+}
+
+
+.carousel-item-2{
+    color: rgba(223, 243, 5, 0.977);
+}
+
+.carousel-item-3{
+    color: rgba(252, 2, 235, 0.977);
+}
+
+.carousel-item-4{
+    color: rgba(5, 243, 57, 0.977);
+}
+
+.carousel-caption{
+    color: yellow
+}
+
+.card-body{
+    color: blue
+}
